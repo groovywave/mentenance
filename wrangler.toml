@@ -1,0 +1,4 @@
+name = "worker-name" # あなたのプロジェクト名に置き換えてください
+main = "src/index.ts" # あなたのエントリーポイントのパスに置き換えてください
+compatibility_date = "2025-07-24"
+
